@@ -22,6 +22,7 @@ cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
+cask install adobe-reader-ja
 cask install sublime-text3
 
 ## motemen/ghq
