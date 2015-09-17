@@ -46,6 +46,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew autoconf
+brew awscli
 brew freetype
 brew ghostscript
 brew gibo
@@ -55,6 +56,7 @@ brew hub
 brew imagemagick
 brew jbig2dec
 brew jpeg
+brew jq
 brew libevent
 brew libpng
 brew libtiff
