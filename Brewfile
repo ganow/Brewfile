@@ -15,6 +15,7 @@ cask flashlight
 cask google-chrome
 cask google-japanese-ime
 cask inkscape
+cask julia
 cask mendeley-desktop
 cask osxfuse
 cask skim
@@ -71,6 +72,7 @@ brew pkg-config
 brew pyenv
 brew rbenv
 brew ruby-build
+brew rust
 brew sshfs
 brew the_silver_searcher
 brew tmux
