@@ -68,6 +68,7 @@ cask inkscape
 cask java
 cask julia
 cask licecap
+cask mactex
 cask mendeley-desktop
 cask osxfuse
 cask skim
