@@ -63,6 +63,7 @@ cask dropbox
 cask evernote
 cask google-chrome
 cask google-japanese-ime
+cask iterm2
 cask java
 cask julia
 cask licecap
