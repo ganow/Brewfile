@@ -61,16 +61,13 @@ cask black-screen
 cask cyberduck
 cask dropbox
 cask evernote
-cask flashlight
 cask google-chrome
 cask google-japanese-ime
-cask inkscape
 cask java
 cask julia
 cask licecap
 cask mactex
 cask mendeley-desktop
-cask osxfuse
 cask skim
 cask slack
 cask sourcetree
@@ -81,7 +78,6 @@ cask vagrant
 cask virtualbox
 cask vox
 cask xquartz
-cask xtrafinder
 
 # App Store applications
 appstore GarageBand
