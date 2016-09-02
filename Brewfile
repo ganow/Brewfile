@@ -14,9 +14,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew iproute2mac
 brew autoconf
 brew awscli
+brew ffmpeg
 brew freetype
 brew ghostscript
 brew gibo
@@ -24,9 +24,11 @@ brew go
 brew htop-osx
 brew hub
 brew imagemagick
+brew iproute2mac
 brew jbig2dec
 brew jpeg
 brew jq
+brew lame
 brew libevent
 brew libpng
 brew libtiff
@@ -40,13 +42,17 @@ brew pcre
 brew pkg-config
 brew pyenv
 brew rbenv
+brew readline
 brew ruby-build
 brew rust
 brew sshfs
 brew the_silver_searcher
+brew tig
 brew tmux
 brew vim --with-lua
 brew wget
+brew x264
+brew xvid
 brew xz
 
 # Cask applications
