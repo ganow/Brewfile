@@ -70,6 +70,7 @@ cask google-japanese-ime
 cask iterm2
 cask java
 cask julia
+cask karabiner
 cask licecap
 cask mactex
 cask mendeley-desktop
