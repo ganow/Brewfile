@@ -40,6 +40,8 @@ brew pandoc
 brew pcre
 brew pkg-config
 brew pyenv
+brew pyenv-virtualenv
+brew pyenv-which-ext
 brew rbenv
 brew readline
 brew ruby-build
