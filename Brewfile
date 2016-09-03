@@ -18,7 +18,6 @@ brew autoconf
 brew awscli
 brew ffmpeg
 brew freetype
-brew ghostscript
 brew gibo
 brew go
 brew htop-osx
