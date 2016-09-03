@@ -60,6 +60,7 @@ cask adobe-creative-cloud
 cask alfred
 cask appcleaner
 cask atom
+cask bartender
 cask black-screen
 cask cuda
 cask cyberduck
