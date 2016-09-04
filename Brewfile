@@ -20,6 +20,7 @@ brew ffmpeg
 brew freetype
 brew gibo
 brew go
+brew htop
 brew htop-osx
 brew hub
 brew imagemagick
