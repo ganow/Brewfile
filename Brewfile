@@ -81,6 +81,7 @@ cask skim
 cask slack
 cask sourcetree
 cask sublime-text
+cask synergy
 cask the-unarchiver
 cask thunderbird
 cask vagrant
