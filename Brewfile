@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap caskroom/versions
-cask adobe-reader-ja
 
 tap motemen/ghq
 brew ghq
@@ -59,6 +58,7 @@ brew xz
 
 # Cask applications
 cask adobe-creative-cloud
+cask adobe-reader-ja
 cask alfred
 cask appcleaner
 cask atom
@@ -67,6 +67,7 @@ cask black-screen
 cask cuda
 cask cyberduck
 cask dropbox
+cask duet
 cask evernote
 cask google-chrome
 cask google-japanese-ime
