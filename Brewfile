@@ -20,7 +20,6 @@ brew freetype
 brew gibo
 brew go
 brew htop
-brew htop-osx
 brew hub
 brew imagemagick
 brew iproute2mac
