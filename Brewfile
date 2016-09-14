@@ -65,6 +65,7 @@ cask bartender
 cask black-screen
 cask cuda
 cask cyberduck
+cask docker
 cask dropbox
 cask duet
 cask evernote
