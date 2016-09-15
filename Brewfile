@@ -49,6 +49,7 @@ brew sshfs
 brew the_silver_searcher
 brew tig
 brew tmux
+brew ttyrec
 brew vim --with-lua
 brew wget
 brew x264
@@ -71,6 +72,7 @@ cask duet
 cask evernote
 cask google-chrome
 cask google-japanese-ime
+cask imageoptim
 cask iterm2
 cask java
 cask julia
@@ -78,6 +80,7 @@ cask karabiner
 cask licecap
 cask mactex
 cask mendeley-desktop
+cask sequel-pro
 cask skim
 cask slack
 cask sourcetree
