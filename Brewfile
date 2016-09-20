@@ -81,7 +81,6 @@ brew lua
 brew luajit
 brew mas
 brew nkf
-brew node
 brew oniguruma
 brew openssl
 brew pandoc
