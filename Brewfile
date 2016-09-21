@@ -18,7 +18,6 @@ cask flashlight
 cask google-chrome
 cask google-japanese-ime
 cask imageoptim
-cask inkscape
 cask iterm2
 cask java
 cask julia
@@ -28,7 +27,6 @@ cask licecap
 cask mactex
 cask mendeley-desktop
 cask omnioutliner
-cask osxfuse
 cask sequel-pro
 cask skim
 cask slack
@@ -41,7 +39,6 @@ cask vagrant
 cask virtualbox
 cask vox
 cask xquartz
-cask xtrafinder
 
 tap caskroom/versions
 
@@ -105,9 +102,6 @@ brew wget
 brew x264
 brew xvid
 brew xz
-
-tap homebrew/fuse
-brew sshfs
 
 tap motemen/ghq
 
