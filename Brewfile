@@ -78,6 +78,7 @@ cask java
 cask julia
 cask karabiner
 cask licecap
+cask macdown
 cask mactex
 cask mendeley-desktop
 cask sequel-pro
