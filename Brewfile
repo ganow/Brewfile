@@ -8,6 +8,7 @@ cask appcleaner
 cask atom
 cask bartender
 cask black-screen
+cask blender
 cask cuda
 cask cyberduck
 cask docker
@@ -18,6 +19,7 @@ cask flashlight
 cask google-chrome
 cask google-japanese-ime
 cask imageoptim
+cask inkscape
 cask iterm2
 cask java
 cask julia
@@ -28,10 +30,12 @@ cask macdown
 cask mactex
 cask mendeley-desktop
 cask omnioutliner
+cask osxfuse
 cask sequel-pro
 cask skim
 cask slack
 cask sourcetree
+cask spotify
 cask sublime-text
 cask synergy
 cask the-unarchiver
@@ -85,6 +89,7 @@ brew pandoc
 brew pcre
 brew peco
 brew pkg-config
+brew pwgen
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-which-ext
@@ -98,22 +103,37 @@ brew the_silver_searcher
 brew tig
 brew tmux
 brew ttyrec
+brew utf8proc
 brew vim --with-lua --with-luajit
 brew wget
 brew x264
 brew xvid
 brew xz
 
+tap homebrew/fuse
+brew sshfs
+
+tap motemen/ghq
+
+tap peco/peco
+
 tap rcmdnk/file
 brew brew-file
 
+tap tldr-pages/tldr
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask adobe-reader-ja (!)
+
 # App Store applications
-appstore 409183694 Keynote
-appstore 539883307 LINE
-appstore 409203825 Numbers
-appstore 823766827 OneDrive
-appstore 409201541 Pages
-appstore 572716744 Reditr
-appstore 414855915 WinArchiver Lite
-appstore 408981434 iMovie
-appstore 408981381 iPhoto
+appstore 409183694 Keynote (6.6.2)
+appstore 539883307 LINE (4.9.0)
+appstore 409203825 Numbers (3.6.2)
+appstore 823766827 OneDrive (17.3.6517)
+appstore 409201541 Pages (5.6.2)
+appstore 572716744 Reditr (3.0.1)
+appstore 414855915 WinArchiver Lite (2.5.2)
+appstore 408981434 iMovie (10.1.2)
+appstore 408981381 iPhoto (9.6.1)
