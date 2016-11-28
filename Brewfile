@@ -16,6 +16,7 @@ cask dropbox
 cask duet
 cask evernote
 cask flashlight
+cask geekbench
 cask google-chrome
 cask google-japanese-ime
 cask imageoptim
@@ -121,11 +122,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap tldr-pages/tldr
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask adobe-reader-ja (!)
 
 # App Store applications
 appstore 409183694 Keynote (6.6.2)
