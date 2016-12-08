@@ -83,6 +83,7 @@ brew little-cms2
 brew lua
 brew luajit
 brew mas
+brew mongodb
 brew nkf
 brew oniguruma
 brew openssl
@@ -113,8 +114,6 @@ brew xz
 
 tap homebrew/fuse
 brew sshfs
-
-tap motemen/ghq
 
 tap peco/peco
 
