@@ -104,6 +104,7 @@ brew rust
 brew sqlite
 brew the_silver_searcher
 brew tig
+brew tldr
 brew tmux
 brew ttyrec
 brew utf8proc
