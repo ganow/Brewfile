@@ -9,6 +9,7 @@ cask atom
 cask bartender
 cask black-screen
 cask blender
+cask cmd-eikana
 cask cuda
 cask cyberduck
 cask docker
@@ -85,6 +86,7 @@ brew luajit
 brew mas
 brew mongodb
 brew nkf
+brew nodebrew
 brew oniguruma
 brew openssl
 brew pandoc
