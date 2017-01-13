@@ -119,8 +119,6 @@ brew sshfs
 tap rcmdnk/file
 brew brew-file
 
-tap tldr-pages/tldr
-
 # App Store applications
 appstore 409183694 Keynote (6.6.2)
 appstore 539883307 LINE (4.9.0)
