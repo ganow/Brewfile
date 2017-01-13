@@ -115,8 +115,6 @@ brew xz
 tap homebrew/fuse
 brew sshfs
 
-tap peco/peco
-
 tap rcmdnk/file
 brew brew-file
 
