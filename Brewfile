@@ -31,6 +31,7 @@ cask licecap
 cask macdown
 cask mactex
 cask mendeley-desktop
+cask mysimbl
 cask omnioutliner
 cask osxfuse
 cask sequel-pro
@@ -121,12 +122,13 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 409183694 Keynote (6.6.2)
-appstore 539883307 LINE (4.9.0)
-appstore 409203825 Numbers (3.6.2)
-appstore 823766827 OneDrive (17.3.6517)
-appstore 409201541 Pages (5.6.2)
+appstore 682658836 GarageBand (10.1.5)
+appstore 409183694 Keynote (7.0.5)
+appstore 539883307 LINE (4.11.1)
+appstore 409203825 Numbers (4.0.5)
+appstore 823766827 OneDrive (17.3.6725)
+appstore 409201541 Pages (6.0.5)
 appstore 572716744 Reditr (3.0.1)
 appstore 414855915 WinArchiver Lite (2.5.2)
-appstore 408981434 iMovie (10.1.2)
+appstore 408981434 iMovie (10.1.4)
 appstore 408981381 iPhoto (9.6.1)
