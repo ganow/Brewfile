@@ -19,7 +19,9 @@ cask evernote
 cask flashlight
 cask geekbench
 cask google-chrome
+cask google-drive
 cask google-japanese-ime
+cask hyper
 cask imageoptim
 cask inkscape
 cask iterm2
