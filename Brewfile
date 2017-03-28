@@ -47,6 +47,7 @@ cask the-unarchiver
 cask thunderbird
 cask vagrant
 cask virtualbox
+cask vlc
 cask vox
 cask xquartz
 
