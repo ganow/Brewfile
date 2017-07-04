@@ -7,10 +7,8 @@ cask alfred
 cask appcleaner
 cask atom
 cask bartender
-cask black-screen
 cask blender
 cask cmd-eikana
-cask cuda
 cask cyberduck
 cask docker
 cask dropbox
@@ -27,7 +25,6 @@ cask inkscape
 cask iterm2
 cask java
 cask julia
-cask karabiner
 cask kitematic
 cask licecap
 cask macdown
@@ -38,6 +35,7 @@ cask omnioutliner
 cask osxfuse
 cask sequel-pro
 cask skim
+cask skype
 cask slack
 cask sourcetree
 cask spotify
@@ -117,12 +115,16 @@ brew wget
 brew x264
 brew xvid
 brew xz
+brew sshfs
 
 tap homebrew/fuse
-brew sshfs
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask black-screen
+cask cuda
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
