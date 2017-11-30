@@ -17,8 +17,8 @@ cask evernote
 cask flashlight
 cask geekbench
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
+cask gyazo
 cask hyper
 cask imageoptim
 cask inkscape
@@ -29,7 +29,6 @@ cask kitematic
 cask licecap
 cask macdown
 cask mactex
-cask mendeley-desktop
 cask mysimbl
 cask omnioutliner
 cask osxfuse
@@ -55,6 +54,7 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew awscli
+brew colordiff
 brew curl
 brew ffmpeg
 brew fondu
@@ -104,6 +104,7 @@ brew readline
 brew ruby-build
 brew rust
 brew sqlite
+brew sshfs
 brew the_silver_searcher
 brew tig
 brew tldr
@@ -115,7 +116,6 @@ brew wget
 brew x264
 brew xvid
 brew xz
-brew sshfs
 
 tap homebrew/fuse
 
@@ -125,6 +125,8 @@ brew brew-file
 # Cask applications
 cask black-screen
 cask cuda
+cask google-drive
+cask mendeley-desktop
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
