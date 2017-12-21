@@ -14,7 +14,6 @@ cask docker
 cask dropbox
 cask duet
 cask evernote
-cask flashlight
 cask geekbench
 cask google-chrome
 cask google-japanese-ime
@@ -29,7 +28,7 @@ cask kitematic
 cask licecap
 cask macdown
 cask mactex
-cask mysimbl
+cask mendeley
 cask omnioutliner
 cask osxfuse
 cask sequel-pro
@@ -125,8 +124,9 @@ brew brew-file
 # Cask applications
 cask black-screen
 cask cuda
+cask flashlight
 cask google-drive
-cask mendeley-desktop
+cask mysimbl
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
