@@ -125,7 +125,6 @@ brew brew-file
 
 # Cask applications
 cask nvidia-cuda
-cask mysimbl
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
