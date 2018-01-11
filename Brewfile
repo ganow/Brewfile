@@ -125,7 +125,6 @@ brew brew-file
 
 # Cask applications
 cask nvidia-cuda
-cask google-drive
 cask mysimbl
 
 # App Store applications
