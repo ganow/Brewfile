@@ -1,54 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask adobe-creative-cloud
-cask alfred
-cask appcleaner
-cask atom
-cask bartender
-cask blender
-cask cmd-eikana
-cask cyberduck
-cask docker
-cask dropbox
-cask duet
-cask evernote
-cask geekbench
-cask google-chrome
-cask google-japanese-ime
-cask gyazo
-cask hyper
-cask imageoptim
-cask inkscape
-cask iterm2
-cask java
-cask julia
-cask kitematic
-cask licecap
-cask macdown
-cask mactex
-cask mendeley
-cask omnioutliner
-cask osxfuse
-cask sequel-pro
-cask skim
-cask skype
-cask slack
-cask sourcetree
-cask spotify
-cask sublime-text
-cask synergy
-cask the-unarchiver
-cask thunderbird
-cask vagrant
-cask virtualbox
-cask vlc
-cask vox
-cask xquartz
-
-tap caskroom/versions
-
 tap homebrew/core
 brew autoconf
 brew automake
@@ -118,17 +70,69 @@ brew xz
 
 tap homebrew/fuse
 
+tap caskroom/cask
+cask imageoptim
+cask slack
+cask atom
+cask gyazo
+cask virtualbox
+cask kitematic
+cask julia
+cask spotify
+cask vlc
+cask skype
+cask inkscape
+cask appcleaner
+cask cmd-eikana
+cask macdown
+cask osxfuse
+cask thunderbird
+cask evernote
+cask the-unarchiver
+cask geekbench
+cask iterm2
+cask dropbox
+cask docker
+cask vagrant
+cask adobe-creative-cloud
+cask blender
+cask sublime-text
+cask duet
+cask sequel-pro
+cask cyberduck
+cask mactex
+cask synergy
+cask bartender
+cask vox
+cask google-chrome
+cask xquartz
+cask hyper
+cask google-japanese-ime
+cask omnioutliner
+cask mendeley
+cask java
+cask sourcetree
+cask alfred
+cask licecap
+cask skim
+
+tap caskroom/drivers
+
+tap caskroom/versions
+
 tap rcmdnk/file
 brew brew-file
 
 # Cask applications
-cask cuda
+cask nvidia-cuda
 cask flashlight
 cask google-drive
 cask mysimbl
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
+appstore 408981434 iMovie (10.1.4)
+appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.11.1)
 appstore 409203825 Numbers (4.0.5)
@@ -136,5 +140,3 @@ appstore 823766827 OneDrive (17.3.6725)
 appstore 409201541 Pages (6.0.5)
 appstore 572716744 Reditr (3.0.1)
 appstore 414855915 WinArchiver Lite (2.5.2)
-appstore 408981434 iMovie (10.1.4)
-appstore 408981381 iPhoto (9.6.1)
