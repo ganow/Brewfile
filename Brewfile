@@ -125,7 +125,6 @@ brew brew-file
 
 # Cask applications
 cask nvidia-cuda
-cask flashlight
 cask google-drive
 cask mysimbl
 
