@@ -122,7 +122,6 @@ tap rcmdnk/file
 brew brew-file
 
 # Cask applications
-cask black-screen
 cask cuda
 cask flashlight
 cask google-drive
