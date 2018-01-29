@@ -71,6 +71,7 @@ brew xz
 tap homebrew/fuse
 
 tap caskroom/cask
+<<<<<<< HEAD
 cask adobe-creative-cloud
 cask alfred
 cask appcleaner
@@ -116,6 +117,7 @@ cask vlc
 cask vox
 cask xquartz
 
+tap caskroom/drivers
 tap caskroom/versions
 
 tap buo/cask-upgrade
@@ -124,11 +126,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Cask applications
-cask black-screen
-cask cuda
-cask flashlight
-cask google-drive
-cask mysimbl
+cask nvidia-cuda
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
