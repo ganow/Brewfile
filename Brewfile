@@ -40,6 +40,7 @@ brew luajit
 brew mas
 brew mongodb
 brew nkf
+brew nodebrew
 brew oniguruma
 brew openssl
 brew pandoc
