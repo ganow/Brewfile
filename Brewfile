@@ -139,6 +139,3 @@ appstore 823766827 OneDrive (17.3.6725)
 appstore 409201541 Pages (6.0.5)
 appstore 572716744 Reditr (3.0.1)
 appstore 414855915 WinArchiver Lite (2.5.2)
-
-# Other commands
-<<<<<<< HEAD
