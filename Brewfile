@@ -21,7 +21,7 @@ brew gibo
 brew glib
 brew gmp
 brew go
-brew graphviz
+brew graphviz --with-gts
 brew htop
 brew hub
 brew imagemagick
