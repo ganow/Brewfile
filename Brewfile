@@ -81,6 +81,7 @@ cask bartender
 cask blender
 cask cmd-eikana
 cask cyberduck
+cask discord
 cask docker
 cask dropbox
 cask duet
