@@ -10,7 +10,9 @@ brew colordiff
 brew curl
 brew ffmpeg
 brew fondu
+brew fontconfig
 brew freetype
+brew gd
 brew gdbm
 brew gettext
 brew ghostscript
@@ -19,6 +21,7 @@ brew gibo
 brew glib
 brew gmp
 brew go
+brew graphviz --with-gts
 brew htop
 brew hub
 brew imagemagick
@@ -40,6 +43,7 @@ brew luajit
 brew mas
 brew mongodb
 brew nkf
+brew nmap
 brew oniguruma
 brew openssl
 brew pandoc
@@ -61,10 +65,12 @@ brew the_silver_searcher
 brew tig
 brew tldr
 brew tmux
+brew tree
 brew ttyrec
 brew utf8proc
 brew vim --with-lua --with-luajit
 brew watch
+brew webp
 brew wget
 brew x264
 brew xvid
