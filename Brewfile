@@ -101,7 +101,6 @@ cask imageoptim
 cask inkscape
 cask iterm2
 cask java
-cask julia
 cask kitematic
 cask licecap
 cask macdown
