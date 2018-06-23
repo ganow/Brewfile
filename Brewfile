@@ -51,6 +51,7 @@ brew pcre
 brew peco
 brew pkg-config
 brew pwgen
+brew pybind11
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-which-ext
@@ -79,6 +80,20 @@ brew xz
 tap homebrew/fuse
 
 tap caskroom/cask
+
+tap caskroom/drivers
+
+tap caskroom/versions
+
+tap buo/cask-upgrade
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew glfw3
+
+# Other Cask applications
 cask adobe-creative-cloud
 cask alfred
 cask appcleaner
@@ -95,17 +110,20 @@ cask evernote
 cask geekbench
 cask google-chrome
 cask google-japanese-ime
+cask grammarly
 cask gyazo
 cask hyper
 cask imageoptim
 cask inkscape
 cask iterm2
 cask java
+cask java8
 cask kitematic
 cask licecap
 cask macdown
 cask mactex
 cask mendeley
+cask nvidia-cuda
 cask omnioutliner
 cask osxfuse
 cask sequel-pro
@@ -123,17 +141,6 @@ cask virtualbox
 cask vlc
 cask vox
 cask xquartz
-
-tap caskroom/drivers
-cask nvidia-cuda
-
-tap caskroom/versions
-cask java8
-
-tap buo/cask-upgrade
-
-tap rcmdnk/file
-brew brew-file
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
