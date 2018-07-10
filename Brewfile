@@ -12,6 +12,7 @@ brew ffmpeg
 brew fondu
 brew fontconfig
 brew freetype
+brew gcc
 brew gd
 brew gdbm
 brew gettext
@@ -26,12 +27,14 @@ brew htop
 brew hub
 brew imagemagick
 brew iproute2mac
+brew isl
 brew jbig2dec
 brew jpeg
 brew jq
 brew lame
 brew libevent
 brew libffi
+brew libmpc
 brew libpng
 brew libssh2
 brew libtiff
@@ -42,9 +45,11 @@ brew lua
 brew luajit
 brew mas
 brew mongodb
+brew mpfr
 brew nkf
 brew nmap
 brew oniguruma
+brew open-mpi --with-cxx-bindings
 brew openssl
 brew pandoc
 brew pcre
@@ -79,13 +84,13 @@ brew xz
 
 tap homebrew/fuse
 
+tap buo/cask-upgrade
+
 tap caskroom/cask
 
 tap caskroom/drivers
 
 tap caskroom/versions
-
-tap buo/cask-upgrade
 
 tap rcmdnk/file
 brew brew-file
