@@ -6,8 +6,10 @@ brew autoconf
 brew automake
 brew awscli
 brew bazel
+brew cairo
 brew colordiff
 brew curl
+brew doxygen
 brew ffmpeg
 brew fondu
 brew fontconfig
@@ -50,11 +52,15 @@ brew nkf
 brew nmap
 brew oniguruma
 brew open-mpi --with-cxx-bindings
+brew openjpeg
 brew openssl
 brew pandoc
 brew pcre
+brew pdf2svg
 brew peco
+brew pixman
 brew pkg-config
+brew poppler
 brew pwgen
 brew pybind11
 brew pyenv
