@@ -64,7 +64,6 @@ brew python
 brew rbenv
 brew readline
 brew ruby-build
-brew rust
 brew sqlite
 brew sshfs
 brew the_silver_searcher
@@ -85,6 +84,17 @@ brew xz
 tap homebrew/fuse
 
 tap caskroom/cask
+
+tap caskroom/drivers
+
+tap caskroom/versions
+
+tap buo/cask-upgrade
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
 cask adobe-creative-cloud
 cask alfred
 cask appcleaner
@@ -107,11 +117,13 @@ cask imageoptim
 cask inkscape
 cask iterm2
 cask java
+cask java8
 cask kitematic
 cask licecap
 cask macdown
 cask mactex
 cask mendeley
+cask nvidia-cuda
 cask omnioutliner
 cask osxfuse
 cask sequel-pro
@@ -129,17 +141,6 @@ cask virtualbox
 cask vlc
 cask vox
 cask xquartz
-
-tap caskroom/drivers
-cask nvidia-cuda
-
-tap caskroom/versions
-cask java8
-
-tap buo/cask-upgrade
-
-tap rcmdnk/file
-brew brew-file
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.5)
