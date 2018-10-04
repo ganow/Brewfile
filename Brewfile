@@ -31,6 +31,7 @@ brew iproute2mac
 brew jbig2dec
 brew jpeg
 brew jq
+brew kubernetes-cli
 brew lame
 brew libevent
 brew libffi
