@@ -14,6 +14,7 @@ brew ffmpeg
 brew fondu
 brew fontconfig
 brew freetype
+brew gcc
 brew gd
 brew gdbm
 brew gettext
@@ -28,6 +29,7 @@ brew htop
 brew hub
 brew imagemagick
 brew iproute2mac
+brew isl
 brew jbig2dec
 brew jpeg
 brew jq
@@ -35,6 +37,7 @@ brew kubernetes-cli
 brew lame
 brew libevent
 brew libffi
+brew libmpc
 brew libpng
 brew libssh2
 brew libtiff
@@ -45,9 +48,11 @@ brew lua
 brew luajit
 brew mas
 brew mongodb
+brew mpfr
 brew nkf
 brew nmap
 brew oniguruma
+brew open-mpi --with-cxx-bindings
 brew openjpeg
 brew openssl
 brew pandoc
@@ -58,6 +63,7 @@ brew pixman
 brew pkg-config
 brew poppler
 brew pwgen
+brew pybind11
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-which-ext
@@ -84,16 +90,19 @@ brew xz
 
 tap homebrew/fuse
 
+tap buo/cask-upgrade
+
 tap caskroom/cask
 
 tap caskroom/drivers
 
 tap caskroom/versions
 
-tap buo/cask-upgrade
-
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew glfw3
 
 # Other Cask applications
 cask adobe-creative-cloud
@@ -112,6 +121,7 @@ cask evernote
 cask geekbench
 cask google-chrome
 cask google-japanese-ime
+cask grammarly
 cask gyazo
 cask hyper
 cask imageoptim
