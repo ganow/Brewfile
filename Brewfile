@@ -111,7 +111,6 @@ cask appcleaner
 cask atom
 cask bartender
 cask blender
-cask cmd-eikana
 cask cyberduck
 cask discord
 cask docker
@@ -129,6 +128,7 @@ cask inkscape
 cask iterm2
 cask java
 cask java8
+cask karabiner-elements
 cask kitematic
 cask licecap
 cask macdown
