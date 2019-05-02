@@ -88,6 +88,9 @@ brew x264
 brew xvid
 brew xz
 
+tap homebrew/cask-fonts
+cask font-source-code-pro
+
 tap homebrew/fuse
 
 tap buo/cask-upgrade
