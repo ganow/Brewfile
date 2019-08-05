@@ -101,6 +101,8 @@ tap caskroom/drivers
 
 tap caskroom/versions
 
+tap ldez/tap
+
 tap rcmdnk/file
 brew brew-file
 
@@ -113,6 +115,7 @@ cask alfred
 cask appcleaner
 cask atom
 cask bartender
+cask basictex
 cask blender
 cask cyberduck
 cask discord
@@ -135,7 +138,6 @@ cask karabiner-elements
 cask kitematic
 cask licecap
 cask macdown
-cask mactex
 cask mendeley
 cask nvidia-cuda
 cask omnioutliner
