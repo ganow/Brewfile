@@ -69,6 +69,7 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyenv-which-ext
 brew python
+brew qt
 brew rbenv
 brew readline
 brew ruby-build
