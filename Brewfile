@@ -48,6 +48,7 @@ brew lua
 brew luajit
 brew mas
 brew mongodb
+brew mono
 brew mpfr
 brew nkf
 brew nmap
@@ -152,6 +153,7 @@ cask sublime-text
 cask synergy
 cask the-unarchiver
 cask thunderbird
+cask unity-hub
 cask vagrant
 cask virtualbox
 cask vlc
