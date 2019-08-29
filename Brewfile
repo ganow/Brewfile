@@ -94,17 +94,11 @@ brew xz
 tap homebrew/cask-fonts
 cask font-source-code-pro
 
-tap homebrew/fuse
-
-tap buo/cask-upgrade
-
 tap caskroom/cask
 
 tap caskroom/drivers
 
 tap caskroom/versions
-
-tap ldez/tap
 
 tap rcmdnk/file
 brew brew-file
