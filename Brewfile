@@ -112,7 +112,7 @@ cask alfred
 cask appcleaner
 cask atom
 cask bartender
-cask basictex
+cask mactex-no-gui
 cask blender
 cask cyberduck
 cask discord
