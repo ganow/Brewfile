@@ -118,7 +118,6 @@ cask cyberduck
 cask discord
 cask docker
 cask dropbox
-cask duet
 cask evernote
 cask geekbench
 cask google-chrome
@@ -127,7 +126,6 @@ cask grammarly
 cask gyazo
 cask hyper
 cask imageoptim
-cask inkscape
 cask iterm2
 cask java
 cask java8
@@ -137,16 +135,11 @@ cask licecap
 cask macdown
 cask mendeley
 cask nvidia-cuda
-cask omnioutliner
-cask osxfuse
 cask sequel-pro
 cask skim
 cask skype
 cask slack
 cask sourcetree
-cask spotify
-cask sublime-text
-cask synergy
 cask the-unarchiver
 cask thunderbird
 cask unity-hub
