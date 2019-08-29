@@ -87,6 +87,7 @@ brew watch
 brew webp
 brew wget
 brew x264
+brew xpdf
 brew xvid
 brew xz
 
