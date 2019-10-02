@@ -134,7 +134,6 @@ cask kitematic
 cask licecap
 cask macdown
 cask mendeley
-cask nvidia-cuda
 cask sequel-pro
 cask skim
 cask skype
