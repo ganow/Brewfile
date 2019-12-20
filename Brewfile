@@ -5,7 +5,6 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew awscli
-brew bazel
 brew cairo
 brew colordiff
 brew curl
@@ -24,7 +23,6 @@ brew gibo
 brew glib
 brew gmp
 brew go
-brew graphviz --with-gts
 brew htop
 brew hub
 brew imagemagick
@@ -129,7 +127,7 @@ cask karabiner-elements
 cask kitematic
 cask licecap
 cask macdown
-cask mendeley
+cask mendeley-desktop
 cask sequel-pro
 cask skim
 cask skype
