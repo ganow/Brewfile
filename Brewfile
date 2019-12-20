@@ -45,15 +45,12 @@ brew little-cms2
 brew lua
 brew luajit
 brew mas
-brew mongodb
 brew mono
 brew mpfr
 brew nkf
 brew nmap
 brew oniguruma
-brew open-mpi --with-cxx-bindings
 brew openjpeg
-brew openssl
 brew pandoc
 brew pcre
 brew pdf2svg
@@ -72,7 +69,6 @@ brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
-brew sshfs
 brew the_silver_searcher
 brew tig
 brew tldr
@@ -80,19 +76,19 @@ brew tmux
 brew tree
 brew ttyrec
 brew utf8proc
-brew vim --with-lua --with-luajit
+brew vim
 brew watch
 brew webp
 brew wget
 brew x264
-brew xpdf
 brew xvid
 brew xz
+
+tap homebrew/cask-drivers
 
 tap homebrew/cask-fonts
 cask font-source-code-pro
 
-tap homebrew/cask-drivers
 tap homebrew/cask-versions
 
 tap rcmdnk/file
@@ -100,6 +96,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew glfw3
+brew openssl
 
 # Other Cask applications
 cask adobe-creative-cloud
@@ -107,7 +104,6 @@ cask alfred
 cask appcleaner
 cask atom
 cask bartender
-cask mactex-no-gui
 cask blender
 cask cyberduck
 cask discord
@@ -127,6 +123,7 @@ cask karabiner-elements
 cask kitematic
 cask licecap
 cask macdown
+cask mactex-no-gui
 cask mendeley-desktop
 cask sequel-pro
 cask skim
@@ -138,6 +135,7 @@ cask thunderbird
 cask unity-hub
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
 cask vox
 cask xquartz
