@@ -125,7 +125,6 @@ cask hyper
 cask imageoptim
 cask iterm2
 cask java
-cask java8
 cask karabiner-elements
 cask kitematic
 cask licecap
