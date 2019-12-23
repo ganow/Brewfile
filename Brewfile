@@ -130,6 +130,7 @@ cask skim
 cask skype
 cask slack
 cask sourcetree
+cask synergy
 cask the-unarchiver
 cask thunderbird
 cask unity-hub
