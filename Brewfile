@@ -5,6 +5,7 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew awscli
+brew bat
 brew cairo
 brew colordiff
 brew curl
@@ -42,6 +43,7 @@ brew libtiff
 brew libtool
 brew libzip
 brew little-cms2
+brew lsd
 brew lua
 brew luajit
 brew mas
@@ -53,6 +55,7 @@ brew oniguruma
 brew openjpeg
 brew pandoc
 brew pcre
+brew pcre2
 brew pdf2svg
 brew peco
 brew pixman
@@ -67,6 +70,7 @@ brew python
 brew qt
 brew rbenv
 brew readline
+brew ripgrep
 brew ruby-build
 brew sqlite
 brew the_silver_searcher
