@@ -87,6 +87,7 @@ brew wget
 brew x264
 brew xvid
 brew xz
+brew yq
 
 tap homebrew/cask-drivers
 
