@@ -145,6 +145,7 @@ cask visual-studio-code
 cask vlc
 cask vox
 cask xquartz
+cask zoomus
 
 # App Store applications
 appstore 539883307 LINE (4.11.1)
