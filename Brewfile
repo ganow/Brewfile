@@ -135,6 +135,7 @@ cask skim
 cask skype
 cask slack
 cask sourcetree
+cask streamlabs-obs
 cask synergy
 cask the-unarchiver
 cask thunderbird
