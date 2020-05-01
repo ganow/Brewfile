@@ -129,6 +129,7 @@ cask kitematic
 cask licecap
 cask macdown
 cask mactex-no-gui
+cask mathpix-snipping-tool
 cask mendeley-desktop
 cask sequel-pro
 cask skim
