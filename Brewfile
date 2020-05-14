@@ -114,6 +114,7 @@ cask cyberduck
 cask discord
 cask docker
 cask dropbox
+cask epic-games
 cask evernote
 cask geekbench
 cask google-chrome
