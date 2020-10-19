@@ -66,7 +66,6 @@ brew pybind11
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-which-ext
-brew python
 brew qt
 brew rbenv
 brew readline
@@ -102,6 +101,7 @@ brew brew-file
 # Other Homebrew packages
 brew glfw3
 brew openssl
+brew python
 
 # Other Cask applications
 cask adobe-creative-cloud
@@ -117,6 +117,7 @@ cask dropbox
 cask epic-games
 cask evernote
 cask geekbench
+cask github
 cask google-chrome
 cask google-japanese-ime
 cask grammarly
