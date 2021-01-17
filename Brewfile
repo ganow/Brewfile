@@ -102,6 +102,7 @@ brew brew-file
 brew glfw3
 brew openssl
 brew python
+brew zoom
 
 # Other Cask applications
 cask adobe-creative-cloud
@@ -133,6 +134,7 @@ cask macdown
 cask mactex-no-gui
 cask mathpix-snipping-tool
 cask mendeley-desktop
+cask notion
 cask sequel-pro
 cask skim
 cask skype
@@ -149,7 +151,6 @@ cask visual-studio-code
 cask vlc
 cask vox
 cask xquartz
-cask zoomus
 
 # App Store applications
 appstore 539883307 LINE (4.11.1)
